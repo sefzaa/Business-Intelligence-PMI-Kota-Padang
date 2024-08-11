@@ -10,3 +10,7 @@ Dataset Yang Digunakan:
 
 Clustering -> Metode K-Means
 Forecasting -> Metode Simple Moving Average
+
+
+Hasil Dashboard
+![image](https://github.com/user-attachments/assets/da23f58d-9f49-4701-87bf-6ccc2a9af7a4)
