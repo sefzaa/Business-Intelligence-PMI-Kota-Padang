@@ -5,9 +5,13 @@
 
 <h1>Dataset Yang Digunakan:</h1>
 Dataset dari Januari 2020 - Oktober 2023
+
 1. htransaksi.csv -> Riwayat transaksi kegiatan donor darah setiap harinya
+
 2. transaksi.csv -> Catatan atau record terakhir pendonor dalam melakukan kegiatan donor darah
+   
 3. pengolahan.csv -> Data komponen yang didapat setelah dilakukannya pengolahan darah
+   
 4. permintaan.csv -> Data permintaan darah dari berbagai instansi kesehatan terhadap PMI Kota Padang
 
 
