@@ -12,5 +12,13 @@ Clustering -> Metode K-Means
 Forecasting -> Metode Simple Moving Average
 
 
-Hasil Dashboard
+Hasil Dashboard:
+
 ![image](https://github.com/user-attachments/assets/da23f58d-9f49-4701-87bf-6ccc2a9af7a4)
+![image](https://github.com/user-attachments/assets/3c2028aa-d8ae-43de-b093-30071055c267)
+![image](https://github.com/user-attachments/assets/040aecaf-a2ab-46f6-a34d-1c0d02fa2990)
+![image](https://github.com/user-attachments/assets/ce6ecaa5-eb9a-4e43-a745-b9dd3749e213)
+![image](https://github.com/user-attachments/assets/5b0e171f-a753-4390-a81f-0393e4a948a5)
+
+
+
