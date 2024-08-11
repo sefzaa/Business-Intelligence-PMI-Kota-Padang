@@ -19,19 +19,19 @@ Forecasting -> Metode Simple Moving Average
 <h1>Hasil Dashboard:</h1>
 
 <h3>1. Dashboard Pendonor</h3>
-![image](https://github.com/user-attachments/assets/da23f58d-9f49-4701-87bf-6ccc2a9af7a4)
+![image](https://github.com/user-attachments/assets/079f98a4-7311-4ad6-b2f0-6436de6ecc57)
 
 <h3>2. Dashboard Donor Darah</h3>
-![image](https://github.com/user-attachments/assets/3c2028aa-d8ae-43de-b093-30071055c267)
+![image](https://github.com/user-attachments/assets/f116f712-bfb5-4473-a3f9-0ccc353f0d2d)
 
 <h3>3. Dashboard Komponen</h3>
-![image](https://github.com/user-attachments/assets/040aecaf-a2ab-46f6-a34d-1c0d02fa2990)
+![image](https://github.com/user-attachments/assets/824324fd-b2c2-49ce-b20b-541bb5a337ea)
 
 <h3>4. Dashboard Forecasting</h3>
-![image](https://github.com/user-attachments/assets/ce6ecaa5-eb9a-4e43-a745-b9dd3749e213)
+![image](https://github.com/user-attachments/assets/a3c84733-3b3a-482d-b1ea-0345451a0639)
 
 <h3>5. Dashboard Clustering</h3>
-![image](https://github.com/user-attachments/assets/5b0e171f-a753-4390-a81f-0393e4a948a5)
+![image](https://github.com/user-attachments/assets/738881c8-8c57-46d0-bb19-cefac46abc86)
 
 
 
