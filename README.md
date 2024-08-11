@@ -15,9 +15,10 @@ Dataset dari Januari 2020 - Oktober 2023
 4. permintaan.csv -> Data permintaan darah dari berbagai instansi kesehatan terhadap PMI Kota Padang
 
 
+<h1></h1>
 
-Clustering -> Metode K-Means
-Forecasting -> Metode Simple Moving Average
+<h1>Clustering -> Metode K-Means</h1>
+<h1>Forecasting -> Metode Simple Moving Average</h1>
 
 
 <h1>Hasil Dashboard:</h1>
