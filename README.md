@@ -1,4 +1,4 @@
-#Judul Skripsi
+<h1>Judul Skripsi<h1>
 
 Implementasi Business Intelligence Pada Data Palang Merah Indonesia Kota Padang Menggunakan Visualisasi Dashboard, Clustering, dan Forecasting
 
