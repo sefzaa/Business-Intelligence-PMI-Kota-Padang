@@ -36,7 +36,7 @@ Dataset dari Januari 2020 - Oktober 2023
       <th>Forecasting</th>
       <td>Simple Moving Average</td>
       <td>Mean Absolute Error</td>
-      <td>@1.625</td>
+      <td>1.625</td>
     </tr>
     
   </tbody>
