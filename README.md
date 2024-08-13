@@ -15,10 +15,32 @@ Dataset dari Januari 2020 - Oktober 2023
 4. permintaan.csv -> Data permintaan darah dari berbagai instansi kesehatan terhadap PMI Kota Padang
 
 
-<h1></h1>
-
-<h1>Clustering -> Metode K-Means</h1>
-<h1>Forecasting -> Metode Simple Moving Average</h1>
+<h1>Clustering dan Forecasting</h1>
+<table>
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Metode</th>
+      <th scope="col">Evaluasi</th>
+      <th scope="col">Hasil Evaluasi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Clustering</th>
+      <td>K-Means</td>
+      <td>Silhouette Score</td>
+      <td>0.56</td>
+    </tr>
+    <tr>
+      <th>Forecasting</th>
+      <td>Simple Moving Average</td>
+      <td>Mean Absolute Error</td>
+      <td>@1.625</td>
+    </tr>
+    
+  </tbody>
+</table>
 
 
 <h1>Hasil Dashboard:</h1>
@@ -42,6 +64,7 @@ Dataset dari Januari 2020 - Oktober 2023
 <h3>5. Dashboard Clustering</h3>
 
 ![image](https://github.com/user-attachments/assets/738881c8-8c57-46d0-bb19-cefac46abc86)
+
 
 
 
