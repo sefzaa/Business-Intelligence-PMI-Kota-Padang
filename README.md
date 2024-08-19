@@ -2,6 +2,11 @@
 
 <h3>Implementasi Business Intelligence Pada Data Palang Merah Indonesia Kota Padang Menggunakan Visualisasi Dashboard, Clustering, dan Forecasting</h3>
 
+<h1>Tools Yang Digunakan</h1>
+<li>Pentaho Data Integration</li>
+<li>Database MySQL</li>
+<li>Microsoft Power BI</li>
+<li>Google Colab</li>
 
 <h1>Dataset Yang Digunakan:</h1>
 Dataset dari Januari 2020 - Oktober 2023
