@@ -48,6 +48,9 @@ Dataset dari Januari 2020 - Oktober 2023
 </table>
 
 
+<h3>Link Dokumen :</h3>  https://drive.google.com/drive/folders/1QP50jVwRReLwE11smLpiGgNMbu8lJq3_?usp=sharing
+
+
 <h1>Hasil Dashboard:</h1>
 
 <h3>1. Dashboard Pendonor</h3>
