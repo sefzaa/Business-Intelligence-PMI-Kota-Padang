@@ -1,4 +1,4 @@
-<h1>Judul Skripsi</h1>
+<h1>Judul</h1>
 
 <h3>Implementasi Business Intelligence Pada Data Palang Merah Indonesia Kota Padang Menggunakan Visualisasi Dashboard, Clustering, dan Forecasting</h3>
 
